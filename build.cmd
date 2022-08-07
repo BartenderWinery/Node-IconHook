@@ -1,0 +1,1 @@
+csc /reference:IWshRuntimeLibrary.dll manager.cs&&pause&&manager.exe %1
